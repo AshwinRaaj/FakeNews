@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/de044992-bd3e-4a39-bfdc-f3855641066a)# TruthLens:AI Powered Fake News Detection
+# TruthLens:AI Powered Fake News Detection
 ## About:
 The proliferation of information on the internet has led to an increase in the circulation of both authentic and fake news. Fake news can mislead readers, manipulate opinions, and cause societal harm. Identifying fake news can be a challenging task, especially for users who are not trained in media literacy. The goal of this project is to use Natural Language Processing (NLP) techniques to automatically classify news articles into "real" or "fake" categories, improving the efficiency and accuracy of news verification.
 
