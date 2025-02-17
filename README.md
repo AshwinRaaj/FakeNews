@@ -43,7 +43,7 @@ A machine with at least 8 GB RAM and 4 CPU cores for smooth processing.
 A stable internet connection to gather datasets from online sources if necessary.
 
 ## System Architecture:
-
+![](System Architecture.png)
 ## Results:
 The results of the fake news classification model will be evaluated based on several metrics:
 
